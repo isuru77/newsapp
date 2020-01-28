@@ -1,0 +1,11 @@
+{
+  "jwtPrivateKey": "",
+  "dbConfig": {
+    "host": "localhost",
+    "database": "newsapp",
+    "port": 3000,
+    "user": "isuru",
+    "password": "123",
+    "connectionLimit": 100
+  }
+}

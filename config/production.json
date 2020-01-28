@@ -1,0 +1,8 @@
+{
+  "dbConfig": {
+    "db": "newsapp",
+    "port": 3036,
+    "username": "",
+    "password": ""
+  }
+}

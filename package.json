@@ -1,0 +1,24 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.2.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.18.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3",
+    "winston": "^3.2.1",
+    "yaml": "^1.7.2"
+  }
+}
